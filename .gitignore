@@ -1,0 +1,17 @@
+# Build Paths
+bin/
+build/
+
+# Gradle Files
+.gradle/
+
+# IDE Files
+# Eclipse
+.classpath
+.project
+.settings/
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
