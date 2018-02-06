@@ -4,6 +4,12 @@ plugins {
 	id 'eclipse'
 }
 
+jar {
+	manifest {
+        attributes("Main-Class": "com.team6479.jetsonstream.Main")
+    }
+}
+
 task wrapper(type: Wrapper) {
 	gradleVersion = '4.5'
 }
