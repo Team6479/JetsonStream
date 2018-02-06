@@ -1,5 +1,6 @@
 # Build Paths
 bin/
+out/
 build/
 
 # Gradle Files
