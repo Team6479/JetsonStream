@@ -3,6 +3,9 @@ bin/
 out/
 build/
 
+#Mac files
+.DS_Store
+
 # Gradle Files
 .gradle/
 
